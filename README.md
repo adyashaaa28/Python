@@ -1,40 +1,45 @@
-# AI Lab Problems: Water Jug, BFS, and DFS
+# 🧑‍💻 AI Lab Python Projects
 
-This repository contains classic artificial intelligence lab problems implemented in Python:
-- **Water Jug Problem** (state space search)
-- **Breadth-First Search (BFS)**
-- **Depth-First Search (DFS)**
+**A curated collection of classic Artificial Intelligence (AI) and algorithm problems implemented in Python. Perfect for academic labs, practice, or portfolio projects.**
 
-## Contents
+---
 
-- `water_jug.py`: Solves the Water Jug Problem using state space traversal.
-- `bfs.py`: Performs Breadth-First Search traversal on a graph.
-- `dfs.py`: Performs Depth-First Search traversal on a graph.
+## 📂 Contents
 
-## Water Jug Problem
+- [`water_jug.py`](water_jug.py): Water Jug Problem solver
+- [`bfs.py`](bfs.py): Breadth-First Search (BFS) traversal
+- [`dfs.py`](dfs.py): Depth-First Search (DFS) traversal
+- [`tictactoe.py`](tictactoe.py): Console Tic Tac Toe game
+- [`towerofhanoi.py`](towerofhanoi.py): Recursive Tower of Hanoi solution
+- *(More scripts to come!)*
 
-Solves the classic AI problem: given two jugs of different capacities and an unlimited water supply, achieve a target volume using a sequence of allowed operations. Demonstrates state space representation and search strategies.
+---
 
-## Breadth-First Search (BFS)
+## 🚀 Getting Started
 
-Standard graph traversal algorithm that visits all the vertices of a graph layer by layer. BFS is useful for finding the shortest path in unweighted graphs.
+1. **Install Python 3** if not already installed.
+2. **Clone this repository**  
+   git clone https://github.com/yourusername/Python.git
+   cd Python
+3. **Run any script**
+    python filename.py 
+4. **Follow the prompts** or edit the script for custom input.
 
-## Depth-First Search (DFS)
+---
 
-Standard graph traversal algorithm going as deep as possible before backtracking. DFS is used for exploring all possible paths in a graph.
+## 🎯 Purpose
 
-## How to Run
+- Learn and observe standard AI and algorithmic problem solutions.
+- Practice problem-solving for academic labs or interviews.
+- Quick reference or starter code for further development.
 
-1. Make sure you have Python 3 installed.
-2. Clone the repository and navigate to the folder.
-3. Run any of the scripts:
+---
 
+## 📝 License
 
-Modify input inside the scripts or as prompted.
+This project is open for educational and non-commercial use.  
+Improvements and contributions welcome!
 
-## Example Output
+---
 
-- Displays sequence of steps (or path) for each problem.
-- Printed traversal order for BFS and DFS.
-
-
+*👀 Interested in more problems? Check this repository regularly for updates!*
